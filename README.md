@@ -1,6 +1,7 @@
 # Aula_26-08
 ---
 # Código VSCode
+### Usar código por meio do modo edição!!
 
 programa {
   funcao inicio() {
